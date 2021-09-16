@@ -1,0 +1,53 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img
+{
+    outline: none;
+}
+html,body
+{
+    width: 100%;
+    height: 100%;
+}
+.container
+{
+    width: 100%;
+    height: 100%;
+    background-color: #f0f1f4;
+}
+.head
+{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+.head1
+{
+    width: 40px;
+    height: 40px;
+}
+.h1
+{
+    font-size: 29.3px;
+    color: #372d2b;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+    padding-top: 5px;
+}
+.login
+{
+
+}
+input[type=text], input[type=password] {
+    padding: 14px 20px;
+    margin: 8px 0;
+    display: block;;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    text-align: center;
+  }

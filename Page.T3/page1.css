@@ -1,0 +1,259 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img
+{
+    outline: none;
+}
+html,body
+{
+    width: 100%;
+    height: 100%;
+}
+.container
+{
+    width: 100%;
+    height: 609px;
+    background-color: #f0f1f4;
+}
+.clearfix
+{
+    clear: both;
+}
+.header
+{
+    width: 100%;
+    height: 60px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.06);
+    background-color: #fff;
+}
+.left
+{
+    float: left;
+    margin: 16px 0 0 42px;
+}
+.head1
+{
+    width: 24px;
+    height: 24px;
+    
+}
+.h1
+{
+    font-size: 18.3px;
+    color: #372d2b;
+    display: inline-block;
+    padding: 8px;
+    vertical-align: top;
+    padding-top: 3px;
+}
+.right
+{
+    float: right;
+}
+.box1
+{
+    width: 58px;
+    height: 60px;
+    box-shadow: -1px 0 0 0 rgba(0, 0, 0, 0.11);
+    background-color: #fff;
+    display: inline-block;
+}
+.box2
+{
+    width: 96px;
+    height: 60px;
+    box-shadow: -1px 0 0 0 rgba(0, 0, 0, 0.11);
+    background-color: #fff;
+    display: inline-block;
+}
+.Admin
+{
+    font-size: 14px;
+    color: #130c4e;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 24px;
+}
+.img1
+{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin: 18px 16px;
+}
+.content
+{
+    width: 100%;
+    height: calc(100% - 60px);
+    background-color: #f0f1f4;
+}
+.left1
+{
+   width: 80px;
+   height: 545px;
+   float: left;
+   box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.06);
+   background-color: #fff;
+   overflow: hidden;
+}
+ul li
+{
+    display: block;
+}
+.sys
+{
+    width: 24px;
+    height: 24px;
+    margin: 22px 27px;
+}
+.right1
+{
+    float: right;
+}
+.card1
+{
+    width: 336px;
+    height: 97px;
+    border-radius: 10px;
+    background-color: #7571c7;
+    display: inline-block;
+    margin: 27px;
+}
+.card2
+{
+    width: 336px;
+    height: 97px;
+    border-radius: 10px;
+    background-color: #5dca88;
+    display: inline-block;
+    margin: 27px;
+}
+.card3
+{
+    width: 336px;
+    height: 97px;
+    border-radius: 10px;
+    background-color: #ff707c;
+    display: inline-block;
+    margin: 27px;
+}
+.left3
+{
+    float: left;
+}
+.right3
+{
+    float: right;
+    padding: 31px 185px 0 0;
+}
+.nbox
+{
+    width: 50px;
+    height: 50px;
+    margin: 24px 12px;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.13);
+}
+.N 
+{
+    margin: 0px 16px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #fff;
+}
+.nine
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+.new
+{
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.55);
+    display: block;
+}
+.button
+{
+    width: 77px;
+    height: 29px;
+    border-radius: 2px;
+    
+    background-color: #fafcff;
+}
+.add
+{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    padding: 0px 10px;
+    text-align: center;
+    display: block;
+}
+.Add-Lead 
+{
+    width: 50px;
+    height: 15px;
+    font-size: 12px;
+    color: #363636;
+}
+.part2
+{
+    float: left;
+    width: 535px;
+    height: 282px;
+    border-radius: 6px;
+    box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.06);
+    background-color: #fffdfd;
+    margin: 0px 31px;
+}
+.profile
+{
+    width: 32px;
+    height: 32px;
+}
+table 
+{
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%;
+}
+td, th 
+{
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+.List
+{
+    float: left;
+}
+.filter
+{
+    float: right;
+    width: 32px;
+    height: 32px;
+}
+.lead
+{
+    font-size: 14px;
+    text-align: center;
+    color: #1e1756;
+}
+.lead1
+{
+    font-size: 11px;
+    color: #1e1756;
+}
+.r2
+{
+    float: right;
+    width: 514px;
+    height: 277px;
+    margin: 0 30px;
+}

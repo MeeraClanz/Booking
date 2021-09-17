@@ -144,8 +144,14 @@ ul li
 .right6
 {
     float: right;
+    position: relative;
 }
-
+.man
+{
+    position: absolute;
+    left: -327px;
+    top: -27px;
+}
 .card1
 {
     width: 336px;
@@ -154,6 +160,10 @@ ul li
     background-color: #7571c7;
     display: inline-block;
     margin: 27px;
+}
+.part1
+{
+    display: inline-block;
 }
 .card2
 {
@@ -180,7 +190,6 @@ ul li
 .right3
 {
     float: right;
-    padding: 31px 185px 0 0;
 }
 .nbox
 {
@@ -204,6 +213,11 @@ ul li
     font-weight: bold;
     color: #fff;
 }
+.newone
+{
+    padding: 31px 6px;
+    float: right;
+}
 .new
 {
     font-size: 10px;
@@ -215,7 +229,7 @@ ul li
     width: 77px;
     height: 29px;
     border-radius: 2px;
-    
+    margin: 34px 11px;
     background-color: #fafcff;
 }
 .add
@@ -223,7 +237,7 @@ ul li
     text-decoration: none;
     color: black;
     font-size: 12px;
-    padding: 0px 10px;
+    padding: 8px 5px;
     text-align: center;
     display: block;
 }
